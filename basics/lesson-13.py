@@ -4,3 +4,5 @@
 #  Group B: 9 pass, 1 fail → less mixed.
 #  Group C: 10 pass, 0 fail → completely pure.
 #  Decision Tree prefers splits that make the resulting groups purer, meaning each group contains more consistent labels.
+# max_depth controls the maximum number of levels in a Decision Tree
+
