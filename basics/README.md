@@ -19,4 +19,4 @@ How pooling works:
 
 ### Pretrained Model:
 
-<img width="1529" height="860" alt="image" src="https://github.com/user-attachments/assets/1e08c597-deee-45c2-ac89-d38edc20a84e" />
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/1e08c597-deee-45c2-ac89-d38edc20a84e" />
