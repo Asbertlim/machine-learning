@@ -15,3 +15,8 @@ How pooling works:
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/ace5624b-6bc7-4db3-889a-4ff5d319c0c3" />
 
+
+
+### Pretrained Model:
+
+<img width="1529" height="860" alt="image" src="https://github.com/user-attachments/assets/1e08c597-deee-45c2-ac89-d38edc20a84e" />
